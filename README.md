@@ -1,2 +1,2 @@
-# thesis_Audio_Privacy_Protection
+# Audio Privacy Protection
 4th year thesis and relevant files
